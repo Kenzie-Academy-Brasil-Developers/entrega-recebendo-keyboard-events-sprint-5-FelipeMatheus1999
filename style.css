@@ -1,0 +1,9 @@
+.box {
+    background-image: url(img/531829.jpg);
+    background-size: 300px 300px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+
+}
